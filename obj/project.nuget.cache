@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VJ8utoJRR1rFFzF6+5n4P79ezLw+7YY3xucdXWW6XGfxeUVOLDvkhxorGiI+/lcG+KpBTYOjtFT0U2S0VMVkQ==",
+  "success": true,
+  "projectFilePath": "/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/Build-a-Blog-With-ASP.NET.csproj",
+  "expectedPackageFiles": [
+    "/Users/mainguest/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mainguest/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/mainguest/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

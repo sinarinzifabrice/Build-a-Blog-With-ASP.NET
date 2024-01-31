@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Build-a-Blog-With-ASP.NET.props" />
+</Project>
