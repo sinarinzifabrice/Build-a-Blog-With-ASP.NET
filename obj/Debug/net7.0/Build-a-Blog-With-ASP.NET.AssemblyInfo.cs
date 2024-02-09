@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Build-a-Blog-With-ASP.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f61b07735dd51f0d85af9124cd4498242f6ac7ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Build-a-Blog-With-ASP.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Build-a-Blog-With-ASP.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

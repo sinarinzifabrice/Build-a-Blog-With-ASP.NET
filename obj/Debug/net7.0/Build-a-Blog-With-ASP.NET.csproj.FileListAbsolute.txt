@@ -29,3 +29,10 @@
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.pdb
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.genruntimeconfig.cache
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/ref/Build-a-Blog-With-ASP.NET.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/MySqlConnector.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.csproj.AssemblyReference.cache
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.csproj.CopyComplete
