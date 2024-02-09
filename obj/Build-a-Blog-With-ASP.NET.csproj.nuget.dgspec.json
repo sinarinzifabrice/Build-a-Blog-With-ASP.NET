@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[7.0.15, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

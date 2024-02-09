@@ -10,6 +10,6 @@ namespace Build_a_Blog_With_ASP.NET.Models.Domain
         public Guid Id { get; set; }
         public string name { get; set; }
         public string DisplayName { get; set; }
-        public ICollection<BlogPost> BlogPosts { get; set; }
+        public ICollection<BolgPost> Bl { get; set; }
     }
 }
