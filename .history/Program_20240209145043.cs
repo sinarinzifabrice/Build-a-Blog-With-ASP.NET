@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("BlogDbConnectionString") ?? throw new
-    InvalidOperationException("connection string 'blog_app' don't find");
+    InvalidOperationException("connection string 'test_ap' don't find");
 
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();     
+builder.Services.AddControllersWithViews();
 
 //connectionString to mysql database
 builder.Services.AddDbContextPool<BlogDbContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));

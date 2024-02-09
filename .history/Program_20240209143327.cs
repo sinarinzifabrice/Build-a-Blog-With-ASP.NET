@@ -1,15 +1,10 @@
-
-using Build_a_Blog_With_ASP.NET.Data;
+using using Build_a_Blog_With_ASP.Net
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("BlogDbConnectionString") ?? throw new
-    InvalidOperationException("connection string 'blog_app' don't find");
-
-
 // Add services to the container.
-builder.Services.AddControllersWithViews();     
+builder.Services.AddControllersWithViews();
 
 //connectionString to mysql database
 builder.Services.AddDbContextPool<BlogDbContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));

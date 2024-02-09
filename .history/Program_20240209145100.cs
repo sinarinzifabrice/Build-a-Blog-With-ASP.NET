@@ -9,7 +9,7 @@ var connectionString = builder.Configuration.GetConnectionString("BlogDbConnecti
 
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();     
+builder.Services.AddControllersWithViews();
 
 //connectionString to mysql database
 builder.Services.AddDbContextPool<BlogDbContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
