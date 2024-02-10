@@ -36,3 +36,8 @@
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.csproj.AssemblyReference.cache
 /Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/obj/Debug/net7.0/Build-a-Blog-With-ASP.NET.csproj.CopyComplete
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Humanizer.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mainguest/Projects/Build-a-Blog-With-ASP.NET/bin/Debug/net7.0/System.CodeDom.dll
